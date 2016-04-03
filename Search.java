@@ -10,7 +10,16 @@ public class Search
     
 	private Tours tour;
 
-    public Tours getResults() { 
+    private DummySQLJDBC database;
+
+    public Search(DummySQLJDBC database) {
+        this.database = database;
+    }
+
+    public Tours getResults() {
+
+        database.getData("SELECT * FROM Tours");
+
     	return tour; 
     }
 
