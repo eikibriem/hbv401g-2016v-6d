@@ -3,7 +3,7 @@
  */
 public class Search
 {
-    private String[] type = {"adventure", "citywalk", "horseriding", "hiking",  "sightseeing"};
+    private String[] type = {"adventure", "city walk", "horseriding", "hiking",  "sightseeing"};
     private String[] difficulty = {"easy", "medium", "hard"};
     private String[] area = {"Capital region", "east", "north", "south", "west"};
     private String[] language = {"danish", "english", "german", "icelandic", "spanish"};
