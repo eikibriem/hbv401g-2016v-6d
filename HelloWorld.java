@@ -16,7 +16,7 @@ public class HelloWorld
             
             System.out.println("Hello World");
 
-            System.out.println("Hello World!!!!! þessu er breytt héraaaaaaaaaaaaa");
+            System.out.println("Hello World!!!!! þessu er breytt héraaaaaaaaaaaaa ha í héra en blajfæklsdajkldsæajflk");
 
             //tours.setPrice(100);
             //System.out.println("verdid er = " + tours.getPrice());
